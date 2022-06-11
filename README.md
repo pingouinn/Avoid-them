@@ -14,7 +14,7 @@
     </a>
 </p>
 <h3 align="center">
-    <strong>A python game recreating "crossy roads" using pyxel lib<br>Developement still in progress<strong>
+    <strong>A python retro game recreating "crossy roads" using pyxel lib<br>Developement still in progress<strong>
 </h3>
 
 ## Installation
